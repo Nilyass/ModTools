@@ -1,8 +1,8 @@
 [Credentials]
-Token = TOKEN HERE
+Token = NTY1MDMyOTc5MTYwODkxNDMy.XK_1Cw.w9h7WCjTDexN7H6YTM8WMafMhBU
 
 [Permissions]
-OwnerID = 77511942717046784
+OwnerID = 537147937583529994
 
 [Chat]
-CommandPrefix = !!
+CommandPrefix = $
